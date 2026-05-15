@@ -1,0 +1,21 @@
+# Local environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+verification-executed.ipynb
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Course prompt and stale report exports
+*.pdf
+*.docx
